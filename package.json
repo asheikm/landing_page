@@ -1,23 +1,23 @@
 {
-    "title": "Full Width Pics",
-    "name": "startbootstrap-full-width-pics",
+    "title": "vkoder inc",
+    "name": "vkoder technologies",
     "version": "4.2.3",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A HTML template featuring sections with full width image backgrounds built with Bootstrap",
+    "description": "We code IT for you",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "product development",
+        "sustainance engineering",
+        "services",
+        "Enginerring R&D",
+        "IoT",
+        "Cloud native development"
     ],
-    "homepage": "https://startbootstrap.com/template/full-width-pics",
+    "homepage": "none",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-full-width-pics/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/asheikm/StartBootstrap/startbootstrap-full-width-pics/issues",
+        "email": ""
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-full-width-pics.git"
+        "url": "https://github.com/asheikm/StartBootstrap/startbootstrap-full-width-pics.git"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
